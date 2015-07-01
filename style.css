@@ -23,3 +23,8 @@ Template: ht-increate
 .services{
     background-color: blue;
 }
+
+.logo img {
+    height: 100px;
+    width: auto;    
+}

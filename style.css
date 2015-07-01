@@ -1,0 +1,25 @@
+/*
+Theme Name: Arbol Child
+Description: inCreate Blank Child Theme
+Author: Highthemes
+Version: 1.0
+Template: ht-increate
+*/
+
+@import url("../ht-increate/style.css");
+
+.diseno_web:hover .s_icon i{
+    color: red !important;
+}
+
+.services p{
+    height: 135px;
+    margin-bottom: 5px;
+}
+
+.home-services .vc_separator{
+    height: 50px;
+}
+.services{
+    background-color: blue;
+}

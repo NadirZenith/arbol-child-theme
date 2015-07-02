@@ -24,6 +24,9 @@ Template: ht-increate
     background-color: blue;
 }
 
+.logo{
+    margin: 5px 0;
+}
 .logo img {
     height: 100px;
     width: auto;    
